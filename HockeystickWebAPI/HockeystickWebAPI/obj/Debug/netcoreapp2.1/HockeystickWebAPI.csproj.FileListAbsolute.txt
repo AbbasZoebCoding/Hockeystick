@@ -1,0 +1,14 @@
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\bin\Debug\netcoreapp2.1\HockeystickWebAPI.deps.json
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\bin\Debug\netcoreapp2.1\HockeystickWebAPI.runtimeconfig.json
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\bin\Debug\netcoreapp2.1\HockeystickWebAPI.runtimeconfig.dev.json
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\bin\Debug\netcoreapp2.1\HockeystickWebAPI.dll
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\bin\Debug\netcoreapp2.1\HockeystickWebAPI.pdb
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.csprojAssemblyReference.cache
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.csproj.CoreCompileInputs.cache
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.RazorAssemblyInfo.cache
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.RazorAssemblyInfo.cs
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.AssemblyInfoInputs.cache
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.AssemblyInfo.cs
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.RazorTargetAssemblyInfo.cache
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.dll
+C:\Hockeystick Assessment\HockeystickWebAPI\HockeystickWebAPI\obj\Debug\netcoreapp2.1\HockeystickWebAPI.pdb
